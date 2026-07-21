@@ -2,7 +2,7 @@
 type: data
 title: Cyclones
 description: Dataset containing records of every cyclone that entered the Philippine area of responsibility from 2017 to 2021.
-resource: ./data/cyclones.xlsx
+resource: ./datasets/cyclones.xlsx
 tags: [data, cyclones, exploratory data analysis]
 timestamp: 2026-07-21T01:35:56Z
 ---
