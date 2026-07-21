@@ -1,0 +1,21 @@
+# presentations
+
+* [Course Overview](/presentations/course-overview.md)
+* [Introduction](/presentations/introduction.md)
+* [Global Landscape of Data Governance](/presentations/global-landscape-data-governance.md)
+* [All about data](/presentations/all-about-data.md)
+* [Data-driven Decision-making](/presentations/data-driven-decision-making.md)
+* [Data governance structures and frameworks](/presentations/data-governance-structures-frameworks.md)
+* [Data Privacy, Security, and Protection](/presentations/data-privacy-security-protection.md)
+* [Data Tools](/presentations/data-tools.md)
+* [Global landscape of available technologies for data](/presentations/global-landscape-technology.md)
+* [Guiding principles and best practices for data capacity building](/presentations/data-capacity-building.md)
+* [Data Personas](/presentations/data-personas.md)
+* [Project-based data workflow](/presentations/data-workflow.md)
+* [Managing Data](/presentations/managing-data.md)
+* [Introduction to Exploratory Data Analysis](/presentations/exploratory-data-analysis.md)
+* [All about spreadsheets](/presentations/using-spreadsheets.md)
+* [Exploratory Data Analysis - Univariate Statistics](/presentations/eda-univariate.md)
+* [Exploratory Data Analysis - Bivariate Statistics](/presentations/eda-bivariate.md)
+* [Epidemiological Statistics](/presentations/epi-stats.md)
+
