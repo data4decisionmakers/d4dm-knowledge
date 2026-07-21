@@ -2,7 +2,7 @@
 type: data
 title: School Nutrition Dataset
 description: A dataset from a nutrition survey of school children 10 years and older from Pakistan.
-resource: ./data/school_nutrition.xlsx
+resource: ./datasets/school_nutrition.xlsx
 tags: [data, school nutrition, exploratory data analysis]
 timestamp: 2026-07-21T01:49:48Z
 ---

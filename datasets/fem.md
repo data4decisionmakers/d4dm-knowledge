@@ -2,7 +2,7 @@
 type: data
 title: Female students mental health dataset
 description: Dataset containing records of female students' mental health information.
-resource: ./data/female_mental_health.xlsx
+resource: ./datasets/female_mental_health.xlsx
 tags: [data, mental health, exploratory data analysis]
 timestamp: 2026-07-21T01:58:45Z
 ---
