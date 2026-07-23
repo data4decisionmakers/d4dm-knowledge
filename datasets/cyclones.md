@@ -16,8 +16,8 @@ timestamp: 2026-07-21T01:35:56Z
 | `category_name` | NUMERIC   | Tropical cyclone category name                               |
 | `name`          | STRING    | Name given to the tropical cyclone by Philippine authorities |
 | `rsmc_name`     | STRING    | Name given to the tropical cyclone by RSMC                   |
-| `start`         | NUMERIC   | Date and time at which cyclone enters Philippine waters      |
+| `start`         | STRING    | Date and time at which cyclone enters Philippine waters      |
 | `end`           | STRING    | Date and time at which cyclone leaves Philippine waters      |
-| `pressure`      | STRING    | Maximum central pressure in hPa                              |
+| `pressure`      | NUMERIC   | Maximum central pressure in hPa                              |
 | `speed`         | NUMERIC   | Maximum sustained wind speed in km/h                         |
 
