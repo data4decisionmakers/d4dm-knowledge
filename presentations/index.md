@@ -16,3 +16,4 @@
 * [Exploratory Data Analysis - Univariate Statistics](/presentations/eda-univariate.md)
 * [Exploratory Data Analysis - Bivariate Statistics](/presentations/eda-bivariate.md)
 * [Epidemiological Statistics](/presentations/epi-stats.md)
+* [The FAIR Principles](/presentations/fair.md)
