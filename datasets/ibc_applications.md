@@ -1,9 +1,9 @@
 ---
 type: data
-title: Complaints
-description: Synthetic dataset containing customer complaints on services received from generic government service providers
-resource: ./datasets/complaints.xlsx
-tags: [data, complaints, comparative data analysis]
+title: International Business Companies (IBC) dataset
+description: Synthetic dataset containing information on International Business Companies applications to the Seychelles Financial Services Authority (FSA)
+resource: ./datasets/ibc_applications.xlsx
+tags: [data, international business companies, comparative data analysis]
 timestamp: 2026-07-23T02:49:45Z
 ---
 
