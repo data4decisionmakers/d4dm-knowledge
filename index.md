@@ -1,13 +1,12 @@
 # datasets
 
+* [Complaints dataset](/datasets/complaints.md)
 * [Cyclones dataset](/datasets/cyclones.md)
-* [cyclones.xlsx](/datasets/cyclones.xlsx)
 * [Female students mental health dataset](/datasets/fem.md)
-* [fem.xlsx](/datasets/fem.xlsx)
+* [International Business Companies dataset](/datasets/ibc_applications.md)
+* [Investor registrations dataset](/datasets/investor_registrations.md)
 * [Paper-based student nutrition records](/datasets/student_nutrition_records.md)
 * [Adolescent school nutrition dataset](/datasets/school_nutrition.md)
-* [school_nutrition.xlsx](/datasets/school_nutrition.xlsx)
-* [school_nutrition_records.pdf](/datasets/school_nutrition_records.pdf)
 
 
 # presentations
@@ -30,3 +29,8 @@
 * [Exploratory Data Analysis - Univariate Statistics](/presentations/eda-univariate.md)
 * [Exploratory Data Analysis - Bivariate Statistics](/presentations/eda-bivariate.md)
 * [Epidemiological Statistics](/presentations/epi-stats.md)
+* [The FAIR Principles](/presentations/fair.md)
+
+
+# case-studies
+
