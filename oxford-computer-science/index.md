@@ -1,45 +1,6 @@
-# datasets
+* [Courses Overview](/oxford-computer-science/courses-overview.md
 
-* [Complaints dataset](/datasets/complaints.md)
-* [Cyclones dataset](/datasets/cyclones.md)
-* [Female students mental health dataset](/datasets/fem.md)
-* [International Business Companies dataset](/datasets/ibc_applications.md)
-* [Investor registrations dataset](/datasets/investor_registrations.md)
-* [Paper-based student nutrition records](/datasets/student_nutrition_records.md)
-* [Adolescent school nutrition dataset](/datasets/school_nutrition.md)
-
-
-# presentations
-
-* [Course Overview](/presentations/course-overview.md)
-* [Introduction](/presentations/introduction.md)
-* [Global Landscape of Data Governance](/presentations/global-landscape-data-governance.md)
-* [All about data](/presentations/all-about-data.md)
-* [Data-driven Decision-making](/presentations/data-driven-decision-making.md)
-* [Data governance structures and frameworks](/presentations/data-governance-structures-frameworks.md)
-* [Data Privacy, Security, and Protection](/presentations/data-privacy-security-protection.md)
-* [Data Tools](/presentations/data-tools.md)
-* [Global landscape of available technologies for data](/presentations/global-landscape-technology.md)
-* [Guiding principles and best practices for data capacity building](/presentations/data-capacity-building.md)
-* [Data Personas](/presentations/data-personas.md)
-* [Project-based data workflow](/presentations/data-workflow.md)
-* [Managing Data](/presentations/managing-data.md)
-* [Introduction to Exploratory Data Analysis](/presentations/exploratory-data-analysis.md)
-* [All about spreadsheets](/presentations/using-spreadsheets.md)
-* [Exploratory Data Analysis - Univariate Statistics](/presentations/eda-univariate.md)
-* [Exploratory Data Analysis - Bivariate Statistics](/presentations/eda-bivariate.md)
-* [Epidemiological Statistics](/presentations/epi-stats.md)
-* [The FAIR Principles](/presentations/fair.md)
-
-
-# case-studies
-
-
-# oxford-computer-science
-
-* [Professional Programme Course Overview](/oxford-computer-science/courses-overview.md)
-
-## Schedule 1: Software Engineering
+# Schedule 1: Software Engineering
 * [Agile Engineering Practices (APE)](/oxford-computer-science/schedule1-software-engineering/agile-engineering-practices.md)
 * [Agile Methods (AGM)](/oxford-computer-science/schedule1-software-engineering/agile-methods.md)
 * [Algorithmics (ALG)](/oxford-computer-science/schedule1-software-engineering/algorithmics.md)
@@ -68,7 +29,7 @@
 * [Structured Data (STR)](/oxford-computer-science/schedule1-software-engineering/structured-data.md)
 * [Things of the Internet (TOI)](/oxford-computer-science/schedule1-software-engineering/things-of-the-internet.md)
 
-## Schedule 2: Software and Systems Security
+# Schedule 2: Software and Systems Security
 * [Applied Cryptography (APC)](/oxford-computer-science/schedule2-software-systems/applied-cryptography.md)
 * [Building Information Governance (BIG)](/oxford-computer-science/schedule2-software-systems/building-information-governance.md)
 * [Communication Security (CMS)](/oxford-computer-science/schedule2-software-systems/communication-security.md)
@@ -87,7 +48,7 @@
 * [Trusted Computing Infrastructure (TCI)](/oxford-computer-science/schedule2-software-systems/trusted-computing-infrastructure.md)
 * [Understanding and Mitigating Malware (MAL)](/oxford-computer-science/schedule2-software-systems/understanding-and-mitigating-malware.md)
 
-## Schedule 3: AI for Business
+# Schedule 3: AI for Business
 * [AI Governance](/oxford-computer-science/schedule3-ai-business/ai-governance.md)
 * [AI in Practice](/oxford-computer-science/schedule3-ai-business/ai-in-practice.md)
 * [Augmenting Business Decisions with AI](/oxford-computer-science/schedule3-ai-business/augmenting-business-decisions-with-ai.md)
@@ -100,24 +61,3 @@
 * [Low Resource Embedded and Edge AI](/oxford-computer-science/schedule3-ai-business/low-resource-embedded-and-edge-ai.md)
 * [Security and Privacy of ML](/oxford-computer-science/schedule3-ai-business/security-and-privacy-of-ml.md)
 * [Strategic Leadership in the Age of AI](/oxford-computer-science/schedule3-ai-business/strategic-leadership-in-the-age-of-ai.md)
-
-
-# data-literacy-short-course-series
-
-* [Course Series Overview](/data-literacy-course-series/course-series-overview.md)
-* [The Case for Inclusion in the Oxford Computer Science Professional Programme](/data-literacy-course-series/case-for-oxford-professional-programme.md)
-
-## Data Concepts and Applications
-
-* [Course Overview](/data-literacy-course-series/01-data-concepts-applications/course-overview.md)
-
-
-## Programming Data
-
-* [Course Overview](/data-literacy-course-series/02-programming-data/course-overview.md)
-
-
-## Data in Production
-
-* [Data in Production](/data-literacy-course-series/03-data-in-production/course-overview.md)
-
